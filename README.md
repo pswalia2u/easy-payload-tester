@@ -1,6 +1,7 @@
 # easy-payload-tester
 Automatically transfer and execute the payload binaries to target windows system.
 
+Use creds for a local admin user(Any user who is part of Administrators group) in windows
 ./payload-tester.sh &lt;username&gt; &lt;password&gt; &lt;target-ip&gt; &lt;payload.exe&gt;
  
  Example-
