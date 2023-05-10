@@ -1,5 +1,5 @@
 # easy-payload-tester
-Automatically transfer and execute the payload binaries to target windows system
+Automatically transfer and execute the payload binaries to target windows system.
 
 ./payload-tester.sh &lt;username&gt; &lt;password&gt; &lt;target-ip&gt; &lt;payload.exe&gt;
  
