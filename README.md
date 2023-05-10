@@ -1,2 +1,2 @@
 # easy-payload-tester
-Automatically transfer and execute the binaries to target windows system
+Automatically transfer and execute the payload binaries to target windows system
